@@ -61,7 +61,7 @@ function jsonpCBRecApps(res) {
     //            
 }
 var s = document.createElement('script');
-s.src = 'http://kme46.siteplug.com/qlapi?o=kme46&s=88107&u=[domain]&f=json&n=8&i=1&is=36x36&di=&callback=jsonpCBRecApps';
+s.src = '//kme46.siteplug.com/qlapi?o=kme46&s=88107&u=[domain]&f=json&n=8&i=1&is=36x36&di=&callback=jsonpCBRecApps';
 document.body.appendChild(s);
 /**** -- RECOMMENDED APPS: close -- ****/
 
